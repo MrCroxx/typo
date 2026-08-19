@@ -20,3 +20,8 @@
 - [siyuan.io](https://siyuan.io), **Siyuan Qi**, Researcher
 - [arnaudrenaud.com](https://www.arnaudrenaud.com/), **Arnaud Renaud**, Software Engineer
 - [arav.ink](https://arav.ink), **Aravind S**, Founder and Engineer
+- [asimov.top](https://asimov.top), **Asimov Ai**, Software Engineer
+- [xinq.pages.dev](https://xinq.pages.dev), **Xin Qiao**, PhD student in astronomy
+- [tawandamunongo.dev](https://tawandamunongo.dev), **Tawanda Munongo**, Software Engineer
+- [foliocassianico.com.br](https://www.foliocassianico.com.br/), **Cássio Gabriel**, Cloud Engineer
+- [amirhossein-z.github.io](https://amirhossein-z.github.io/), **Amirhossein Zareian**, Software Engineer
